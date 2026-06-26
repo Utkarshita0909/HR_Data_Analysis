@@ -69,14 +69,4 @@ The notebook includes pie charts, bar charts, horizontal bar charts, count plots
 - Compares compensation between remote and on-site employees
 - Reveals hiring trends over time and workforce distribution by country
 
-## 🤝 Contributing
 
-Feel free to fork this repo, raise issues, or submit pull requests with improvements or additional analysis.
-
-## 📄 License
-
-This project is open source and available under the MIT License.
-
----
-
-⭐ If you found this project useful, consider giving it a star!
